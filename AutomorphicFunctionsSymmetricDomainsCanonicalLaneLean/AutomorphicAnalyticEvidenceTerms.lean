@@ -1,0 +1,15 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean.AutomorphicAnalyticProof
+
+namespace HautevilleHouse
+namespace AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean
+
+structure AutomorphicAnalyticEvidenceTerms {D : SymmetricDomainObject}
+  (C : AutomorphicCertificate D) where
+  automorphicFormsDefined : C.automorphicFormsDefined
+  discreteSubgroupFixed : C.discreteSubgroupFixed
+  cofiniteVolumeVerified : C.cofiniteVolumeVerified
+  finiteDimensionalProved : C.finiteDimensionalProved
+
+end AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean
+end HautevilleHouse

@@ -1,0 +1,11 @@
+import HautevilleHouse.AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean.GateLemmas
+import HautevilleHouse.AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean
+
+-- This module is the root of the package.
+
+end AutomorphicFunctionsSymmetricDomainsCanonicalLaneLean
+end HautevilleHouse
